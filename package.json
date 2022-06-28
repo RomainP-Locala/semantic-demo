@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/RomainP-Locala/semantic-demo#readme",
   "devDependencies": {
-    "husky": "^8.0.0"
+    "husky": "^8.0.0",
+    "standard-version": "^9.5.0"
   },
   "dependencies": {
     "@commitlint/cli": "^17.0.3",
