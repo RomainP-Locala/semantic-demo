@@ -1,13 +1,13 @@
 {
     "types": [
-      {"type": "feat", "section": "Features"},
-      {"type": "fix", "section": "Bug Fixes"},
+      {"type": "feat", "section": "Features :sparkles:"},
+      {"type": "fix", "section": "Bug Fixes :bug:"},
       {"type": "chore", "hidden": true},
-      {"type": "docs", "hidden": true},
-      {"type": "style", "hidden": true},
-      {"type": "refactor", "hidden": true},
-      {"type": "perf", "hidden": true},
-      {"type": "test", "hidden": true}
+      {"type": "docs", "section": "Documentation :memo:"},
+      {"type": "style", "section" : "Style :art:"},
+      {"type": "refactor", "section" : "Refactoring :recycle:"},
+      {"type": "perf", "section": "Performance related changements :zap:"},
+      {"type": "test", "section" : "Tests :white_check_mark:"}
     ],
     "commitUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/commits/{{hash}}",
     "compareUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/compare/{{previousTag}}...{{currentTag}}"
