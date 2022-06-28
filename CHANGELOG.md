@@ -2,6 +2,43 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/mokkapps/changelog-generator-demo/compare/v0.0.1...v0.0.2) (2022-06-28)
+
+
+### Documentation :memo:
+
+* edit versionrc ([073ad32](https://github.com/mokkapps/changelog-generator-demo/commits/073ad32bf724d9ec1e43a5f3a9d1e964467d28ae))
+
+
+### Bug Fixes :bug:
+
+* fake bug fix ([93294aa](https://github.com/mokkapps/changelog-generator-demo/commits/93294aa73136290b54c688cce8d50ad2e5bf47d6))
+
+
+### Style :art:
+
+* edit coding style in wonderland ([07cfbe6](https://github.com/mokkapps/changelog-generator-demo/commits/07cfbe6f87060e97f376710b4b3c737474a89f83))
+
+
+### Performance related changements :zap:
+
+* **Campaign:** change loop type to improve performances ([15821f7](https://github.com/mokkapps/changelog-generator-demo/commits/15821f781e7c647daea23fc46c2af25d51b7017a))
+
+
+### Tests :white_check_mark:
+
+* **Login:** add some mocked data to login tests ([25d34db](https://github.com/mokkapps/changelog-generator-demo/commits/25d34dbf9defc6cbde10aa0711baace85aa63ead))
+
+
+### Refactoring :recycle:
+
+* **Login:** refactor some variables names for comprehension purpose ([139c036](https://github.com/mokkapps/changelog-generator-demo/commits/139c036a158b730020ecd1e2fe780c4e7d6ffe82))
+
+
+### Features :sparkles:
+
+* add new style file ([f3c1ba2](https://github.com/mokkapps/changelog-generator-demo/commits/f3c1ba2175e11913e6149d88be6db660ff33fba7))
+
 ### 0.0.1 (2022-06-28)
 
 
